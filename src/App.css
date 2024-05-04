@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.absolute{
+  position: fixed;
+  top: 0;
+}
+
+.check{
+  background-color: aqua;
+}
